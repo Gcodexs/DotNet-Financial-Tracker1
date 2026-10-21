@@ -5,6 +5,8 @@ A **Full Stack web application** that connects three components: a user interfac
 
 Designed and developed a Full-Stack financial management web application using React to build a responsive user interface and .NET 10 (C#) for a robust backend. Implemented Entity Framework Core with SQLite for local data persistence, establishing a decoupled, efficient, and maintainable architecture.
 
+- 📁[**Full Stack web application**](https://github.com/Gcodexs/DotNet-Financial-Tracker1/tree/main/DotNet-Financial-Tracker1) Full-stack financial management web application built with React, C# and .NET 10, featuring income and expense tracking, SQLite database integration, and a responsive user interface.
+
 <p align="center">
 <img 
   src="https://github.com/user-attachments/assets/8a95905b-44f3-475f-a2f6-11993b308832" 
