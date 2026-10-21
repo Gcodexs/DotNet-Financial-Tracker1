@@ -137,6 +137,13 @@ npm start
 <img width="65%" height="1001" alt="17" src="https://github.com/user-attachments/assets/942bf8e6-8bc9-4584-8fc4-fb98450a336e" />
 </p>
 
+<p align="center">
+<img width="65%" height="1000" alt="Captura de pantalla (1233)" src="https://github.com/user-attachments/assets/345176fd-ef8c-4016-8844-d268154128ac" />
+</p>
+
+
+
+
 
 
 
