@@ -3,7 +3,6 @@ A **Full Stack web application** that connects three components: a user interfac
 
 Designed and developed a Full-Stack financial management web application using React to build a responsive user interface and .NET 10 (C#) for a robust backend. Implemented Entity Framework Core with SQLite for local data persistence, establishing a decoupled, efficient, and maintainable architecture.
 
-
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/709e7fc4-4ae5-4b00-ab30-4db2af31f73d"
