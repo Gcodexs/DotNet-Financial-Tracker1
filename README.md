@@ -1,13 +1,14 @@
+
 ## What Did I Build?
 A **Full Stack web application** that connects three components: a user interface, a backend server, and a database.
 
 Designed and developed a Full-Stack financial management web application using React to build a responsive user interface and .NET 10 (C#) for a robust backend. Implemented Entity Framework Core with SQLite for local data persistence, establishing a decoupled, efficient, and maintainable architecture.
 
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/709e7fc4-4ae5-4b00-ab30-4db2af31f73d"
-    width="250"
-    alt="Arquitectura Full Stack de DotNet Financial Tracker"
+<img 
+  src="https://github.com/user-attachments/assets/8a95905b-44f3-475f-a2f6-11993b308832" 
+  width="250"
+  alt="678453617-709e7fc4-4ae5-4b00-ab30-4db2af31f73d"
   />
 </p>
 
