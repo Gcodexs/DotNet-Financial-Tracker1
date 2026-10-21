@@ -141,7 +141,7 @@ npm start
 </p>
 
 <p align="center">
-<img width="65%" height="1001" alt="17" src="https://github.com/user-attachments/assets/942bf8e6-8bc9-4584-8fc4-fb98450a336e" />
+<img width="65%" height="1007" alt="17" src="https://github.com/user-attachments/assets/5a337cfb-7a0f-4b14-ab9a-9a82cded606e" />
 </p>
 
 <p align="center">
