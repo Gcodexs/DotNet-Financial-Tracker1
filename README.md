@@ -134,12 +134,22 @@ Then, I executed the following command.
 npm start
 ```
 <p align="center">
+<img width="65%" height="1000" alt="Captura de pantalla (1233)" src="https://github.com/user-attachments/assets/345176fd-ef8c-4016-8844-d268154128ac" />
+</p>
+
+<p align="center">
+<img width="65%" height="991" alt="Captura de pantalla (1231)" src="https://github.com/user-attachments/assets/ac4bf7ce-c003-4f0e-ba6f-77a30b755ea5" />
+</p>
+
+<p align="center">
 <img width="65%" height="1001" alt="17" src="https://github.com/user-attachments/assets/942bf8e6-8bc9-4584-8fc4-fb98450a336e" />
 </p>
 
 <p align="center">
-<img width="65%" height="1000" alt="Captura de pantalla (1233)" src="https://github.com/user-attachments/assets/345176fd-ef8c-4016-8844-d268154128ac" />
+<img width="65%" height="1014" alt="Captura de pantalla (1232)" src="https://github.com/user-attachments/assets/bf61c7c8-d674-4e5e-be84-a8d283ef2421" />
 </p>
+
+
 
 
 
