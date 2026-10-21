@@ -1,4 +1,5 @@
 
+
 ## What Did I Build?
 A **Full Stack web application** that connects three components: a user interface, a backend server, and a database.
 
@@ -24,11 +25,9 @@ Before building the application, we need to organize the files inside a main pro
 
 
 <p align="center">
-<img width="65%"   alt="01" src="https://github.com/user-attachments/assets/c5775623-af42-4cc3-88ca-d66280e01a13" />
+<img width="65%" alt="01" src="https://github.com/user-attachments/assets/ac7e4bbe-4171-4289-ac63-bec2fa71cd17" />
 </p>
 
-
- 
 ```
 mkdir -p Documents/DotNet-Financial-Tracker
 ```
